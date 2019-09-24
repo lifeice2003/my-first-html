@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>LIFEICE cool site</title>
+</head>
+<body>
+  <h1><em>WELCOME TO LIFEICE SITE</em></h1>
+  <h2>My jollof rice recipe</h2>
+  <p>Hi everyone my name is <strong><em>Collins ifeanyi</em></strong>, Am going to teach you how to cook my favourite food,
+    which is jollof rice.
+  </p>
+  <p>Fist am going list out few ingredient for this delicious meal.</p>
+  <p>Second am going to put you through the process of prepairing the 
+	jollof rice in steps.</p>
+  <!-- unordered list of my ingredient -->
+  <P><strong>Ingredient</strong></p>  
+  <ul>
+    <li>Rice</li>
+	<li>Tomatos</li>
+	  <ul>
+	    <li>fresh tomatos, to be chop or slice in small pieces</li>
+	  </ul>
+	<li>Dry Fish</li>
+	<li>Onion</li>
+	<li>Ginger and Garlic</li>
+	  <ul>
+	    <li>Dried ginger is the perfect choice far me, the garlic could be fresh</li>
+	  </ul>
+	<li>Fresh Perper</li>
+	<li>Salt</li>
+	<li>Vegetable Oil or Olive Oil</li>
+	<li>Carrot</li>
+	<li>Green Perper</li>
+	<li>Meat</li>
+	<li>Seasoning</li>
+	<li>Special jollof rice spices</li>
+  </ul>
+  <!-- ordered list of prepairing -->
+  <p><strong>Preparation</strong></P>
+  <ol>
+   <li>First you put a clean pot in the gass and add two litter of clean water , and allow to boil.</li>
+	 <ul>
+	   <li>ie, the amount of water to be added will depend on the quantity of rice you are cooking.</li>
+	   <li>add the already washed rice into the boiling water and allow to boil for five minutes</li>
+	   <ul>
+		 <li>then put the pot down from the gass, put out the water, wash again then cover for later.</li>
+		 </ul>
+	 </ul>	
+   <li>Secondly, you chop the meat in sizeable form wash with water and salt.</li>
+     <ul>
+	   <li>after washing, you pre-boil the meat, add some spices, salt and boil for 15 to 20 minutes, after which you put the pot down for later.</li>
+     </ul>
+   <li>Now you have to pre-fry the tomatos and the onion</li>
+     <ul>
+       <li>after you most have fry the tomatos for about 5 to 10 minutes, you now add the pre-boild meat and it source, you add the chop carrot, green perper</li>
+	   <li>you add the ginger and garlic,seasoning and the special jollof rice spices and allow to boil for 3 to 4 minutes then you add the already pre-boild rice</li>
+	 </ul>  
+  </ol>
+</body>
+</html>
